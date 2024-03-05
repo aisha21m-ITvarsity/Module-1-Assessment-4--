@@ -1,0 +1,28 @@
+th{
+                font-weight: 600;
+                font-family:serif;
+                background-color: darkseagreen;
+                color: darkolivegreen;
+                padding-left: 6px;
+                padding-right:6px; 
+                padding-bottom:6px;
+                padding-top:6px;
+            }
+table{
+                font-family:inherit;
+                border-collapse:inherit;
+                border-width: 4px;
+                border-style:solid;
+                border-color: darkgreen;
+                border-collapse: collapse;
+                width: 65%;
+                white-space: pre-wrap;
+            }
+           
+h1{
+            color: darkolivegreen;
+            text-decoration:underline;
+            text-decoration-color: darkseagreen;
+                        
+            }
+            
